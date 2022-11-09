@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xasshad
-- 👀 I’m interested in coding and fashion
-- 🌱 I’m currently learning html, css, and javascript
-- 💞️ I’m looking to publish my work and get feedback!!
+- 👀 I’m a rookie front-end developer
+- 🌱 I’m currently learning python, next.js, and rust
+- 💞️ I’m looking to publish my work to my peers and prospective employers
 - 📫 You can message me on Discord (x_david #6397)
 
 <!---
